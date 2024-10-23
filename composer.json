@@ -1,0 +1,16 @@
+{
+    "name": "yeraynp/company-practica",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Yeraynp\\CompanyPractica\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Yeray16",
+            "email": "yeraynp16@gmail.com"
+        }
+    ],
+    "require": {}
+}
